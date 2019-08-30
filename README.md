@@ -1,0 +1,2 @@
+# FullScreenDialogFragment
+Fullscreen DialogFragment
