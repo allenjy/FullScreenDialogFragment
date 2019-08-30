@@ -11,7 +11,7 @@ import android.view.Window;
 import android.view.WindowManager;
 
 /**
- * 全屏 DialogFragment
+ * Fullscreen DialogFragment
  * Created by Allen on 2019/8/27.
  */
 public class FullScreenDialogFragment extends AppCompatDialogFragment {
