@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@android:color/holo_blue_dark"
+             tools:context="com.allen.dialogfragment.TestFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:padding="16dp"
+        android:textSize="22sp"
+        android:text="哈哈哈哈哈，你好帅！"
+        android:textColor="@android:color/white"/>
+
+</FrameLayout>
