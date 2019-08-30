@@ -1,6 +1,7 @@
 # FullScreenDialogFragment
 Fullscreen DialogFragment
 
+```
 /**
  * Fullscreen DialogFragment
  * Created by Allen on 2019/8/27.
@@ -33,3 +34,4 @@ public class FullScreenDialogFragment extends AppCompatDialogFragment {
         }
     }
 }
+```
